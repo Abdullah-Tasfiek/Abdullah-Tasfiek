@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning react.js and node.js
 
-👯 I’m looking to collaborate on react projects or coding interviews
+👯 I’m looking to collaborate on react projects and coding interviews
 
 🤔 I’m looking for a full-time Software Engineering position related to Full Stack Web Development
 

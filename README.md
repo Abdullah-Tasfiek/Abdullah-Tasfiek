@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 🤔 I’m looking for a full-time Software Engineering position related to Full Stack Web Development
 
-📫 How to reach me: https://www.linkedin.com/in/atasfiek/
+📫 How to reach me: atasfiek.ece@gmail.com
 
 ⚡ Fun fact: I enjoy playing and watching competitive video games (League of Legends and Valorant)
 

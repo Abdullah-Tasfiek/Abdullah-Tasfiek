@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 💻 I’m currently working on Javascript projects
 
-🌱 I’m currently learning react.js and node.js
+🌱 I’m currently learning react.js
 
 👯 I’m looking to collaborate on react projects and coding interviews
 

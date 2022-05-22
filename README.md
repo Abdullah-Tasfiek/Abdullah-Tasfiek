@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on react projects and coding interviews
 
-🤔 I’m looking for a full-time Software Engineering position related to Full Stack Web Development
+🤔 I’m looking for a full-time Software Engineering position
 
 📫 How to reach me: atasfiek.ece@gmail.com
 

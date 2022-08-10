@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me: atasfiek.ece@gmail.com
 
-⚡ Fun fact: I enjoy playing and watching competitive video games (League of Legends and Valorant)
+⚡ Fun fact: I enjoy playing and watching competitive video games like Valorant!
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Tasfiek&count_private=true&show_icons=true&hide=contribs)
 

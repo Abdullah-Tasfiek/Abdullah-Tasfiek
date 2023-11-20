@@ -7,17 +7,17 @@
 Here are some ideas to get you started:
 -->
 
-💻 I’m currently working on Javascript projects
+💻 I’m currently working as a Frontend Developer Intern
 
-🌱 I’m currently learning react.js and express.js
+🌱 I’m currently learning about Machine Learning and Python
 
-👯 I’m looking to collaborate on react projects and coding interviews
+👯 I’m looking to collaborate on ML and AI projects
 
 🤔 I’m looking for a Software Engineering position
 
-📫 How to reach me: atasfiek.ece@gmail.com
+📫 How to reach me: abdullahtasfiek@gmail.com
 
-⚡ Fun fact: I enjoy playing and watching competitive video games like Valorant!
+⚡ Fun fact: I'm developing my Full Stack Web App passion project called BetterHealth!
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Tasfiek&count_private=true&show_icons=true&hide=contribs)
 
